@@ -3,7 +3,17 @@ entries:
   httpd:
   - apiVersion: v2
     appVersion: 2.4.62
-    created: "2024-10-29T22:59:08.371889+07:00"
+    created: "2024-10-29T23:03:47.639351+07:00"
+    description: A Helm chart for Kubernetes
+    digest: 75ab285ebe24b8ad7a845d2764d6f1513eacca1962bbd40b8d2764fbdb45d59d
+    name: httpd
+    type: application
+    urls:
+    - httpd-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 2.4.62
+    created: "2024-10-29T23:03:47.638475+07:00"
     description: A Helm chart for Kubernetes
     digest: 6ae42359a089518883b5cc3674ee592e950085214fa9b510da9f6237a2fd64dc
     name: httpd
@@ -11,4 +21,4 @@ entries:
     urls:
     - httpd-0.1.0.tgz
     version: 0.1.0
-generated: "2024-10-29T22:59:08.367029+07:00"
+generated: "2024-10-29T23:03:47.637145+07:00"
